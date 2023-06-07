@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(173, 235, 235);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none
+}
